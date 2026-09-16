@@ -1,5 +1,5 @@
     const { Router } = require('express');
-    const Productora = require('../Models/Productora');
+    const Productora = require('./Productora');
     const router = Router();
 
     // Crear Productora (POST)
