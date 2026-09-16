@@ -1,5 +1,5 @@
     const { Router } = require('express');
-    const Tipo = require('../Models/Tipo');
+    const Tipo = require('./Tipo');
     const router = Router();
 
     // Crear Tipo (POST)
