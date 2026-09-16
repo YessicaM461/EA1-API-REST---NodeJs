@@ -1,5 +1,5 @@
     const { Router } = require('express');
-    const Genero = require('../Models/Genero');
+    const Genero = require('./Genero');
     const router = Router();
 
     // Crear Genero (POST)
