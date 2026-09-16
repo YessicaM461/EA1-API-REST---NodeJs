@@ -1,5 +1,5 @@
     const { Router } = require('express');
-    const Director = require('../Models/Director');
+    const Director = require('./Director');
     const router = Router();
 
     // Crear Director (POST)
